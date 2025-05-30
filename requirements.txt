@@ -4,4 +4,5 @@ matplotlib
 seaborn
 nltk
 textblob
-yfinance
+pyfinance
+TA-Lib
